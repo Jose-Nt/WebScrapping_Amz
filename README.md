@@ -1,2 +1,2 @@
 # WebScrapping_Amz
-Web Scrapping das informações de precificação de produtos no site de e-comerce Amazon
+Script desenvolvido com o objetivo de extrair dados do site de e-comerce Amazon, mais especificamente, dados referentes ao preço, título da venda, data que foi feita a pesquisa e termo pesquisado. Após a extração dos dados, os mesmos são armazenados em um DataFrame que posteriormente é adicionado, linha por linha, a um banco de dados PostgreSQL. Foram utilizadas principalmente as bibliotecas Selenium, BeautifulSoup e pandas para desenvolver o script.
